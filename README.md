@@ -6,6 +6,8 @@ A test MEAN Application stack
 
 <code> $ cd testMeanApp</code>
 
+<code>sudo apt install node-express-generator</code>
+
 <code> $ express --pug</code>
 
 <code> # (using MdBoostrap) </code>
