@@ -1,7 +1,7 @@
 # testMeanApp
 A test MEAN Application stack
 
-# Instalation
+# Instalation steps
 <code> $ git clone git@github.com:wendellpereira/testMeanApp.git</code>
 
 <code> $ cd testMeanApp</code>
@@ -12,8 +12,6 @@ A test MEAN Application stack
 
 <code> $ npm install mdboostratp</code>
 
-<code> $ npm install</code>
-
 <code> $ npm install -g nodemon</code>
 
-
+<code> $ npm install</code>
