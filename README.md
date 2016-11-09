@@ -8,12 +8,12 @@ A test MEAN Application stack
 
 <code> $ sudo apt install node-express-generator</code>
 
-<code> $ express --pug</code>
+<code> $ npm install pug</code>
 
 <code> # (using MdBoostrap) </code>
 
-<code> $ npm install mdboostratp</code>
+<code> $ npm install  mdbootstrap</code>
 
-<code> $ npm install -g nodemon</code>
+<code> $ sudo npm install -g nodemon</code>
 
 <code> $ npm install</code>
