@@ -4,7 +4,7 @@
 
 /* GET home Page */
 module.exports.index = function(req, res, next) {
-    res.render('index', { title: 'Express do Wendell',
+    res.render('index', { title: 'Wendell`s Express Application',
                           wellcometext: 'the test MEAN Application stack'
     });
 }

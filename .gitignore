@@ -2,7 +2,7 @@
 *.log
 
 #arquivos d Idea WebStorm
-.idea/
+.idea/*
 
 
 # Created by https://www.gitignore.io/api/sublimetext
