@@ -1,6 +1,9 @@
 #Logs
 *.log
 
+#arquivos d Idea WebStorm
+.idea/
+
 
 # Created by https://www.gitignore.io/api/sublimetext
 
